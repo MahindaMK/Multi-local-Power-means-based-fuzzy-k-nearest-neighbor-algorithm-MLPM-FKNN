@@ -9,3 +9,6 @@ The function of the mlpm-fknn algorithm (`mlpm_fknn.m`) and Power mean computati
 Reference: [Kumbure, M. M., Luukka, P., Collan, M.: An enhancement of fuzzy k-nearest neighbor classifier using multi-local power means. In: Proceeding of the 11th Conference of the European Society for Fuzzy Logic and Technology (EUSFLAT), pp. 83–	90, Atlantis Press (2019)](https://doi.org/10.2991/eusflat-19.2019.13)
 
 Created by Mahinda Mailagaha Kumbure & Pasi Luukka 01/2019 based on Keller's definition of the fuzzy k-nearest neighbor algorithm.
+
+### Updated version of the MLPM-FKNN classifier (`mlpm_fknn_updated.m`):
+The original MLPM-FKNN classifier is updated 
