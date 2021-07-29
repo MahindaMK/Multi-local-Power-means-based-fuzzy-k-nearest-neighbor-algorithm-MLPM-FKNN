@@ -10,7 +10,7 @@ Reference: [Kumbure, M. M., Luukka, P., Collan, M.: An enhancement of fuzzy k-ne
 
 Created by Mahinda Mailagaha Kumbure & Pasi Luukka 01/2019 based on Keller's definition of the fuzzy k-nearest neighbor algorithm.
 
-#### Updated version of the MLPM-FKNN classifier (`mlpm_fknn_updated.m`):
+### Updated version of the MLPM-FKNN classifier (`mlpm_fknn_updated.m`):
 This is the updated version of the original MLPM-FKNN classifier in the study of:
 
 Kumbure, M. M., Lohrmann, C., Luukka, P.: A Study on Relevant Features for Intraday S&P 500 Prediction Using a Hybrid Feature Selection Approach. International Conference on Machine Learning, Optimization, and Data Science (LOD - 2021), Grasmere, Lake District, England – UK (2021). 
