@@ -50,8 +50,8 @@ for i = 1:num_test
     distances = (repmat(xtest(i,:), num_train,1) - xtrain).^2;
     distances = sum(distances,2)';
 
-    [~, indeces] = sort(distances); % Sort the distances
-    neighbor_index = indeces(1:K);  % Find the indexes of nearest neighbors
+    [~, indices] = sort(distances); % Sort the distances
+    neighbor_index = indices(1:K);  % Find the indexes of nearest neighbors
 	weight = ones(1,length(neighbor_index));
     
     % Local mean computation for each class in the set of nearest neighbors
